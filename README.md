@@ -2,11 +2,10 @@
 HTML
 <div style="background-color: #f5f5f5; padding: 30px; font-family: 'Arial', sans-serif; border-radius: 10px;">
   <div align="center" style="background-color: #24292e; color: white; padding: 20px; border-radius: 5px; margin-bottom: 20px;">
-    <h1>✨ Hello There! ✨</h1>
+    <h1>✨ Greetings mortals 👋, I'm Gruffyy ✨</h1>
   </div>
 
   <div align="center">
-    <h1 style="color: #333; font-family: 'Impact', sans-serif; font-size: 3em; margin-bottom: 0;">Greetings mortals 👋, I'm Gruffyy</h1>
     <h3 style="color: #666; font-family: 'Pacifico', cursive; font-size: 1.5em;">Fullstack Dev from Finland! Always learning something new! Open source and Linux advocate. <br> Also a rustacean!</h3>  
   </div>
 
