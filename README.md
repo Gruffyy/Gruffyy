@@ -28,7 +28,7 @@
   </div>
   
   <script>
-  // Wait for the DOM to load before executing the script
+
   document.addEventListener("DOMContentLoaded", function() {
 
     const quotes = [
