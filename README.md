@@ -12,13 +12,13 @@
   </p>
   
 <h3 style="color: white; margin-top: 30px; text-align: center;">Tech Stack</h3>
-<h3 style="color: white; margin-top: 30px; text-align: center;">Tech Stack</h3>
+
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(50px, 1fr)); gap: 10px; justify-content: center; background-color: #24292e; padding: 20px; border-radius: 5px;">
   <img src="https://cdn.simpleicons.org/mongodb/white" alt="MongoDB" width="40" height="40" style="margin: 5px;">
   <img src="https://cdn.simpleicons.org/express/white" alt="Express" width="40" height="40" style="margin: 5px;">
   <img src="https://cdn.simpleicons.org/react/white" alt="React" width="40" height="40" style="margin: 5px;">
-  <img src="https://cdn.simpleicons.org/nodejs/white" alt="Node.js" width="40" height="40" style="margin: 5px;">
-  <img src="https://cdn.simpleicons.org/rust/white" alt="Rust" width="40" height="40" style="margin: 5px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="margin: 5px; filter: invert(1);">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40" style="margin: 5px; filter: invert(1);"> 
   <img src="https://cdn.simpleicons.org/java/white" alt="Java" width="40" height="40" style="margin: 5px;">
   <img src="https://cdn.simpleicons.org/postgresql/white" alt="PostgreSQL" width="40" height="40" style="margin: 5px;">
 </div>
