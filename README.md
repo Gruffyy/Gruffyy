@@ -2,7 +2,7 @@
 HTML
 <div style="background-color: #f5f5f5; padding: 30px; font-family: 'Arial', sans-serif; border-radius: 10px;">
   <div align="center" style="background-color: #24292e; color: white; padding: 20px; border-radius: 5px; margin-bottom: 20px;">
-    <h1>✨ Greetings mortals 👋, I'm Gruffyy ✨</h1>
+    <h1>✨ Greetings mortals, I'm Gruffyy ✨</h1>
   </div>
 
   <div align="center">
