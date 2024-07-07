@@ -31,8 +31,4 @@
     <img src="https://github-readme-stats.vercel.app/api?username=gruffyy&show_icons=true&locale=en&theme=dark" alt="gruffyy" style="margin-right: 20px;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gruffyy&theme=dark" alt="gruffyy" />
   </div>
-
-  <div style="display: flex; justify-content: center; margin-top: 20px;">
-    <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=github" alt="Open Source Contributor">
-  </div>
 </div>
