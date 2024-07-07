@@ -12,7 +12,6 @@
 
   <div style="display: flex; justify-content: space-around; margin-bottom: 30px;">
     <div>
-      <h3 style="color: #24292e;">Languages and Tools:</h3>
       <p style="display: flex; flex-wrap: wrap; justify-content: center;"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin: 5px;"/> 
       </p>
