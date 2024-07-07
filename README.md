@@ -13,7 +13,6 @@
   
 <h3 style="color: white; margin-top: 30px; text-align: center;">Tech Stack</h3>
 
-<h3 style="color: white; margin-top: 30px; text-align: center;">Tech Stack</h3>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(60px, 1fr)); gap: 10px; justify-content: center; background-color: #24292e; padding: 20px; border-radius: 5px;">
   <img src="https://cdn.simpleicons.org/mongodb/white" alt="MongoDB" width="40" height="40" style="padding: 10px;">
   <img src="https://cdn.simpleicons.org/express/white" alt="Express" width="40" height="40" style="padding: 10px;">
