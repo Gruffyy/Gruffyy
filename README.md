@@ -27,27 +27,5 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gruffyy&theme=dark" alt="gruffyy" />
   </div>
   
-  <script>
-
-  document.addEventListener("DOMContentLoaded", function() {
-
-    const quotes = [
-      "The only way to do great work is to love what you do. - Steve Jobs",
-      "Strive not to be a success, but rather to be of value. - Albert Einstein",
-      "Your time is limited, so don't waste it living someone else's life. - Steve Jobs"
-    ];
-    const quoteElement = document.getElementById("quote");
-    let currentQuoteIndex = 0;
-
-    function displayQuote() {
-      quoteElement.textContent = quotes[currentQuoteIndex];
-      currentQuoteIndex = (currentQuoteIndex + 1) % quotes.length;
-    }
-
-    displayQuote(); 
-    setInterval(displayQuote, 5000); 
-
-  });
-  </script>
 
 </div>
