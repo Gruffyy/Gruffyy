@@ -4,7 +4,7 @@
   </div>
 
   <div align="center">
-    <h3 style="color: #666; font-family: 'Pacifico', cursive; font-size: 1.5em;">Fullstack Dev from Finland! Always learning something new! Open source and Linux advocate. <br> Also a rustacean!</h3>  
+    <h3 style="color: #666; font-family: 'Pacifico', cursive; font-size: 1.5em;">Fullstack Dev from Finland! Always learning something new! Open source and Linux advocate. </h3>  
   </div>
 
   <p align="center">
