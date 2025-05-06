@@ -2,12 +2,16 @@
 
 ## I'm Gruffyy 👋
 
-Fullstack dev from Finland. Always learning new things - currently trapped in the React Native maze 🐰. Open source and Linux fan (because privacy matters, and breaking things in the terminal is a hobby).
+Fullstack dev from Finland. Usually knee-deep in new tech — lately, that means getting hopelessly lost in the React Native maze 🐰. I'm into open source and Linux (because privacy matters... and because breaking your own system builds character).
 
-> "I use Arch, btw." (Yes, I’m *that* person.)
+> "I use Arch, btw." (Yeah, I’m *that* person. Sorry, not sorry.)
 
-Lately, I’ve been knee-deep in React Native. It’s a bit like assembling IKEA furniture: sometimes everything fits perfectly, other times you’re just holding a mysterious extra piece and questioning your life choices. One day I’m building mobile apps like a pro, the next I’m in library dependency limbo.
+These days, React Native is my main obsession. Some days it’s smooth sailing; other days, it’s like building IKEA furniture without instructions — except the leftover screws are mysterious libraries, and the manual is a Stack Overflow post from 2017.  
+> One minute I’m feeling like a mobile dev wizard, the next I’m curled up under my desk rethinking my life choices.
 
-I used to think Next.js auth docs were a puzzle, but React Native’s ecosystem? That’s a whole escape room. But hey, what’s coding without a little chaos and caffeine?
+![dev-meme](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9tanF6bWxxODR1bHQzem5manBtdmVkaHdxNm03NmVzN3o5dHY0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ToMjGpsXVxgAUEkCAP6/giphy.gif)
 
-I’m also a privacy advocate - because let’s be real, big tech already knows enough about us. Let’s keep our data to ourselves, our code open, and our bug reports… well, hopefully not too public.
+I used to think Next.js auth docs were rough — but React Native’s ecosystem?  
+> React Native + Expo + native modules like SQLite turns “JavaScript dev” into “DevOps intern” real quick. (No hard feelings. Or... maybe just a little.)
+
+Also a bit of a privacy-first guy — because let’s be real, Big Tech already knows what I had for breakfast. So let’s keep our data to ourselves, our code open, and our apps snappy.
