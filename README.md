@@ -13,5 +13,3 @@ These days, React Native is my main obsession. Some days it’s smooth sailing; 
 
 I used to think Next.js auth docs were rough — but React Native’s ecosystem?  
 > React Native + Expo + native modules like SQLite turns “JavaScript dev” into “DevOps intern” real quick. (No hard feelings. Or... maybe just a little.)
-
-Also a bit of a privacy-first guy — because let’s be real, Big Tech already knows what I had for breakfast. So let’s keep our data to ourselves, our code open, and our apps snappy.
