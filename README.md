@@ -1,15 +1,49 @@
-# Hey there, internet wanderer!
+# Hey there, internet wanderer! 👋
 
-## I'm Gruffyy 👋
+## I'm Marko (Gruffyy)
+**Fullstack Developer | React Native Enthusiast | Automation Specialist**
 
-Fullstack dev from Finland. Usually knee-deep in new tech — lately, that means getting hopelessly lost in the React Native maze 🐰. I'm into open source and Linux (because privacy matters... and because breaking your own system builds character).
+Fullstack dev from Finland. I'm into open source, privacy-first tech, and building tools that level the playing field. If I'm not in the React Native maze, I'm likely breaking my Arch Linux install to see how it works.
 
-> "I use Arch, btw." (Yeah, I’m *that* person. Sorry, not sorry.)
+---
 
-These days, React Native is my main obsession. Some days it’s smooth sailing; other days, it’s like building IKEA furniture without instructions — except the leftover screws are mysterious libraries, and the manual is a Stack Overflow post from 2017.  
-> One minute I’m feeling like a mobile dev wizard, the next I’m curled up under my desk rethinking my life choices.
+### 💼 Open to Work
+I am currently looking for new opportunities in **Fullstack**, **Mobile**, or **Automation Development**. 
+I build solutions that work, whether it's a mobile app or a custom automation tool. Let's talk!
+
+---
+
+### 🛠️ Current Projects
+
+#### [RawReps](https://github.com/Gruffyy/rawreps)
+**Privacy-focused fitness & fasting tracker.**
+* **Tech:** React Native, Expo, TypeScript, AsyncLocalStorage
+* **Focus:** Offline-first, clean UX, and performance
+
+#### **CVindictus (In Progress)**
+**Chrome extension for automated job applications.**
+* **The "Why":** Since HR uses AI to scan resumes, CVindictus levels the playing field by automating the application process.
+* **Tech:** Local AI models (LLMs) to generate tailored "Why me" etc HR "Bullshit" sections and Chrome Extension API.
+* **Goal:** Fight fire with fire — automated applications for an automated hiring world.
+
+---
+
+### Tech Stack & Obsessions
+* **Languages & Frameworks:** React Native, Expo, TypeScript, Next.js, Node.js
+* **Automation & AI:** Chrome Extensions, Local LLMs, Web Scraping.
+* **Operating System:** "I use Arch, btw."
+
+---
+
+### The Developer Experience
+> One minute I’m feeling like a mobile dev wizard, the next I’m curled up under my desk rethinking my life choices while wrestling with native modules.
 
 ![dev-meme](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9tanF6bWxxODR1bHQzem5manBtdmVkaHdxNm03NmVzN3o5dHY0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ToMjGpsXVxgAUEkCAP6/giphy.gif)
 
-I used to think Next.js auth docs were rough — but React Native’s ecosystem?  
-> React Native + Expo + native modules like SQLite turns “JavaScript dev” into “DevOps intern” real quick. (No hard feelings. Or... maybe just a little.)
+---
+
+### Let's Connect
+* **GitHub:** [Gruffyy](https://github.com/Gruffyy)
+* **Discord:** `gruffee`
+* **Email:** GruffyMarko@proton.me
+* **Status:** Available for hire & automating the boring stuff.
