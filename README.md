@@ -23,8 +23,8 @@ I build solutions that work, whether it's a mobile app or a custom automation to
 #### **CVindictus (In Progress)**
 **Chrome extension for automated job applications.**
 * **The "Why":** Since HR uses AI to scan resumes, CVindictus levels the playing field by automating the application process.
-* **Tech:** Local AI models (LLMs) to generate tailored "Why me" etc HR "Bullshit" sections and Chrome Extension API.
-* **Goal:** Fight fire with fire — automated applications for an automated hiring world.
+* **Tech:** Local AI models (LLMs) to generate HR "Bullshit" sections, and Chrome Extension API.
+* **Goal:** Automated applications for an automated hiring world.
 
 ---
 
@@ -35,14 +35,14 @@ I build solutions that work, whether it's a mobile app or a custom automation to
 
 ---
 
-### The Developer Experience
+### RN Hell
 > One minute I’m feeling like a mobile dev wizard, the next I’m curled up under my desk rethinking my life choices while wrestling with native modules.
 
 ![dev-meme](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9tanF6bWxxODR1bHQzem5manBtdmVkaHdxNm03NmVzN3o5dHY0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ToMjGpsXVxgAUEkCAP6/giphy.gif)
 
 ---
 
-### Let's Connect
+### Hit me up
 * **GitHub:** [Gruffyy](https://github.com/Gruffyy)
 * **Discord:** `gruffee`
 * **Email:** GruffyMarko@proton.me
