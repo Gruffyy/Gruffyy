@@ -45,5 +45,4 @@ I build solutions that work, whether it's a mobile app or a custom automation to
 ### Hit me up
 * **GitHub:** [Gruffyy](https://github.com/Gruffyy)
 * **Discord:** `gruffee`
-* **Email:** GruffyMarko@proton.me
 * **Status:** Available for hire & automating the boring stuff.
