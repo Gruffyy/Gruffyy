@@ -1,4 +1,4 @@
-# Hey there, internet wanderer! 👋
+# Hey there, internet wanderer! 
 
 ## I'm Marko (Gruffyy)
 **Fullstack Developer | React Native Enthusiast | Automation Specialist**
