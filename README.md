@@ -34,8 +34,10 @@ I'm open to **remote EMEA opportunities and relocation**.
 
 **Full-stack motorcycle community platform.**
 
-- **Tech:** Next.js, Express, Node.js, JWT
-- **Focus:** Authentication, email verification, protected routes, and REST APIs
+- **Tech:** Next.js, Express, Node.js, MongoDB/Mongoose, JWT
+- **Features:** Authentication, email verification, password recovery,
+  protected REST APIs, user profiles, groups, events, motorcycle
+  management, maintenance tracking, and image uploads
 
 #### CVindictus *(In Progress)*
 
